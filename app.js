@@ -1,2 +1,2 @@
-alert("Stay Out of it");
+alert("Stay");
 console.log('Hello');
