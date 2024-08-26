@@ -46,3 +46,8 @@ function displayDoctors() {
 
 // Display doctors when the page loads
 document.addEventListener('DOMContentLoaded', displayDoctors);
+
+
+
+
+
